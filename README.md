@@ -1,5 +1,7 @@
 === Sovereign AI Overseer (Lite Edition) ===
+
 🚀 THIS IS THE OPEN-SOURCE LITE CORE.
+
 It contains the pure Zero-Trust WebAuthn (FaceID/TouchID) passwordless engine.
 For the Advanced AI Security Sentinel (which autonomously bans hackers via Google Gemini on Cloud Run), Enterprise Reporting, and Full Freemius licensing, get the PRO Edition at: https://devnet-microsystems.com/auth
 
